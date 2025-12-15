@@ -1,0 +1,12 @@
+@my_fullstack_ai_python Journey
+
+Day01- 05-06-07 videos i experenced how is python code be like.
+	08- video why to use python
+    09-10- video first python code - Day-1 initialize Learn Python folder to start learn python @my_fullstack_ai_python Journey
+Day-2- 11 video get everything in virtual environment
+        -python -m venv .venv
+        -.\.venv\Scripts\activate
+        -pip install -r .\requirements.txt
+        -deactivate
+    
+

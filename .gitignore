@@ -218,3 +218,4 @@ __marimo__/
 *.txt
 !README.txt
 !requirements.txt
+!Daily_update.txt
