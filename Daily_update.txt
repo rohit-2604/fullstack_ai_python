@@ -8,5 +8,6 @@ Day-2- 11 video get everything in virtual environment
         -.\.venv\Scripts\activate
         -pip install -r .\requirements.txt
         -deactivate
-    
-
+    12 video organize python code like a pro and use uv (uvicorn)
+        Diagrams:
+        https://app.eraser.io/workspace/cCVoxYb85rniCQ2d8YbE?origin=share
